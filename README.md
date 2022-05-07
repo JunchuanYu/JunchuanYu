@@ -2,10 +2,10 @@
 
 ![Metrics](https://metrics.lecoq.io/JunchuanYu?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FShanghai)
 
-<table style="margin-left:auto; margin-right:auto">
+<table style="text-align:center">
  <tr>
     <td><b style="font-size:25px;text-align:center">My Interested Topics</b></td>
-    <td><b style="font-size:25px;margin-right:auto">My Languages</b></td>
+    <td><b style="font-size:25px;text-align:center">My Languages</b></td>
  </tr>
  <tr>
     <td>
