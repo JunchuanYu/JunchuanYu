@@ -4,8 +4,8 @@
 
 <table style="margin-left:auto; margin-right:auto">
  <tr>
-    <td><b style="font-size:25px">My Interested Topics</b></td>
-    <td><b style="font-size:25px">My Languages</b></td>
+    <td><b style="font-size:25px;text-align:center">My Interested Topics</b></td>
+    <td><b style="font-size:25px;margin-right:auto">My Languages</b></td>
  </tr>
  <tr>
     <td>
