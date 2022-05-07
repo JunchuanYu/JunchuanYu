@@ -4,8 +4,8 @@
 
 <table style="text-align:center">
  <tr>
-    <td><b style="font-size:25px;text-align:center">My Interested Topics</b></td>
-    <td><b style="font-size:25px;text-align:center">My Languages</b></td>
+    <td><b style="font-size:30px;text-align:center">My Interested Topics</b></td>
+    <td><b style="font-size:30px;text-align:center">My Languages</b></td>
  </tr>
  <tr>
     <td>
