@@ -41,6 +41,6 @@ Publications：[ResearchGate](https://www.researchgate.net/profile/Junchuan-Yu/p
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunchuanYu&repo=Deep-learning-teaching" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunchuanYu&repo=MFGNet_Cloud_Detection_Remote_Sensingy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunchuanYu&repo=MFGNet_Cloud_Detection_Remote_Sensing" />
 </a>
 
