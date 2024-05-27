@@ -34,12 +34,5 @@ Publications：[ResearchGate](https://www.researchgate.net/profile/Junchuan-Yu/p
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JunchuanYu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunchuanYu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunchuanYu&repo=Deep-learning-teaching" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunchuanYu&repo=Building_Interactive_Web_APP_with_Gradio" />
-</a>
-
 ![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true) ![vietanhdev's Stats](https://streak-stats.demolab.com/?user=vietanhdev)
 
